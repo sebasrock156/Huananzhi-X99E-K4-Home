@@ -2,8 +2,10 @@
 [Aptio的工具镜像]: https://disk.yandex.com/d/XrZjsImaqxl8Uw
 [就在这里]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
 [音频驱动程序]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
-[以太网驱动程序]: https://dlcdnets.asus.com/pub/ASUS/lan/Realtek_LAN_Win7-8-81-10_V792115_838115_101505.zip?model=H81M-K
+[适用于 W10 的以太网驱动程序]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
+[适用于 W11 的以太网驱动程序]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [原始 BIOS 映像]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
+[芯片组驱动程序]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 
 # 华南X99E-K4软件主页
 
@@ -11,17 +13,18 @@
 
 ## 驱动程序 (Windows 10/11)
 
-下面的所有驱动程序都是由 Driver Booster 等工具建议的。
+以下所有驱动程序均来自具有相似或相同组件的其他华南主板。
 
 <details>
 
-[Intel 驱动程序（芯片组、I/O 和处理器]
-
-[主板驱动程序（M.2、SATA、USB 集线器]
+[芯片组驱动程序]（继承自 X99-P4F 主板）
 
 [音频驱动程序]
 
-[以太网驱动程序]
+[适用于 W10 的以太网驱动程序] | [适用于 W11 的以太网驱动程序] （继承自 X99-P4F 主板）
+
+
+⚠ **免责声明** ⚠：如果您使用 Driver Booster 之类的实用程序，这些驱动程序可能会损坏系统中的某些内容，请谨慎操作。
 
 ---
   
