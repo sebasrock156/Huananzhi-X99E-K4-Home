@@ -3,6 +3,7 @@
 [Just right here]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
 [Audio Drivers]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
 [Ethernet Drivers]: https://dlcdnets.asus.com/pub/ASUS/lan/Realtek_LAN_Win7-8-81-10_V792115_838115_101505.zip?model=H81M-K
+[Original BIOS Image]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
 
 # Huananzhi X99E-K4 Software Home
 
