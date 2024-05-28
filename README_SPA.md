@@ -38,8 +38,6 @@ Como no tenemos un archivo oficial de Huananzhi, me he dado a la tarea de hacer 
 
 [Imagen de BIOS Original]: Esta es un volcado del BIOS de stock de mi placa base, sin modificaciones.
 
-[Imagen de BIOS Desbloqueada]: Esta es una BIOS ligeramente modificada donde he intentado habilitar todo lo que está disponible.
-
 [Imagen de BIOS Hackeada]: Esta es una imagen de BIOS modificada para los Xeon V3 (y algunos V4) con Turbo Boost Hack.
 
 ---
