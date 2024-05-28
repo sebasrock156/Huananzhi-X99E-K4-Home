@@ -38,8 +38,6 @@
 
 [原始 BIOS 映像]：这是我主板上的 Stock BIOS 的转储，未经修改。
 
-[解锁 BIOS 映像]：当我尝试启用其中的所有功能时，这是一个经过轻微修改的 BIOS。
-
 [被黑的 BIOS 映像]：这是经过修改的 BIOS 映像，用于通过 Turbo Boost Hack 启动 Xeon V3 系列（和某些 V4 系列）。
 ---
 
