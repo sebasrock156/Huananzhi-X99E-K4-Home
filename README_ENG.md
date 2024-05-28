@@ -1,4 +1,5 @@
-[AMIBIOS Flasher]:
+[Aptio's V Tools]: https://drive.google.com/file/d/1vb90JzokyKYic07Fsm2rrJVzQSgUCB-E/view?usp=drive_link
+[Aptio's Tools Mirror]: https://disk.yandex.com/d/XrZjsImaqxl8Uw
 [Aptio's BIOS Manager]:
 [Original BIOS Image]:
 [Mooded BIOS Image]:
@@ -32,9 +33,7 @@ Since we haven't an official file from Huananzhi, I have taken the task of makin
   
 ⚠ **ADVICE** ⚠: Here I want appeal at Fair Use, some tools are leaks from Technical Services and Enterprises, the Inverse Engineering of these are usually illegal, but here it's used for educational purposes.
 
-[AMIBIOS Flasher]: This is an utility for flash new BIOS Firmwares from System or USB Device.
-
-[Aptio's BIOS Manager]: This utility allows modify some parameters of your BIOS Firmware and create a new package of Firmware for do you could flash it later.
+[Aptio's V Tools] | [Aptio's Tools Mirror]: These tools are we could modify and flash new BIOS Firmwares.
 
 ---
 </details>
