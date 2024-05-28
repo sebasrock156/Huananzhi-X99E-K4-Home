@@ -72,10 +72,10 @@ Core | i7-6850K | Broadwell-E, 6 Núcleos/12 Hilos@3.6 GHz/3.8GHz Turbo, TDP 140
 Core | i7-6900K | Broadwell-E, 8 Núcleos/16 Hilos@3.2 GHz/3.7GHz Turbo, TDP 140W | Compatible con fuentes de 500W
 Core Extreme | i7-5960X | Haswell-E, 8 Núcleos/16 Hilos@3.0 GHz/3.5GHz Turbo, TDP 140W | Compatible con fuentes de 500W
 Core Extreme | i7-6950X | Broadwell-E, 10 Núcleos/20 Hilos@3.0 GHz/3.5GHz Turbo, TDP 140W | Compatible con fuentes de 650W
-Xeon | E5-1600 and E5-2600 V3 Series | Haswell-EP | Compatible con fuentes de 750W o más
-Xeon | E5-1600 and E5-2600 V4 Series | Broadwell-EP | Compatible con fuentes de 750W o más
-Xeon | E5-4600 V3 Series | Haswell-EP | Compatible con fuentes de 750W o más, pero usando solo módulos de RAM ECC (compruebe antes el ancho de banda)
-Xeon | E5-4600 V4 Series | Broadwell-EP | Compatible con fuentes de 1000W o más, pero usando solo módulos de RAM ECC (compruebe antes el ancho de banda)
+Xeon | Series E5-16XX y E5-26XX V3 | Haswell-EP | Compatible con fuentes de 750W o más
+Xeon | Series E5-16XX y E5-26XX V4 | Broadwell-EP | Compatible con fuentes de 750W o más
+Xeon | Serie E5-46XX V3 | Haswell-EP | Compatible con fuentes de 750W o más, pero usando solo módulos de RAM ECC (compruebe antes el ancho de banda)
+Xeon | Serie E5-46XX V4 | Broadwell-EP | Compatible con fuentes de 1000W o más, pero usando solo módulos de RAM ECC (compruebe antes el ancho de banda)
 ---
   
 </details>
