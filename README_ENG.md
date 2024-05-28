@@ -1,6 +1,8 @@
 [Aptio's V Tools ]: https://www.mediafire.com/file/ucvt4pdxjrtpmu7/Tools_for_AMI_Aptio_V.zip/file
 [Aptio's Tools Mirror]: https://disk.yandex.com/d/XrZjsImaqxl8Uw
 [Just right here]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
+[Audio Drivers]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
+[Ethernet Drivers]: https://dlcdnets.asus.com/pub/ASUS/lan/Realtek_LAN_Win7-8-81-10_V792115_838115_101505.zip?model=H81M-K
 
 # Huananzhi X99E-K4 Software Home
 
@@ -18,6 +20,8 @@ All the drivers below, were suggested by tools like Driver Booster.
 
 [Audio Drivers]
 
+[Ethernet Drivers]
+
 ---
   
 </details>
@@ -30,7 +34,7 @@ Since we haven't an official file from Huananzhi, I have taken the task of makin
 
 [Original BIOS Image]: This is a dump from Stock BIOS from my Motherboard, without modifies.
 
-[Mooded BIOS Image]: This is a ligth modified BIOS when I try enabling all the features in there.
+[Unlocked BIOS Image]: This is a light modified BIOS when I try enabling all the features in there.
 
 [Hacked BIOS Image]: This is a modified BIOS Image for boot Xeons V3 Series (and some V4 Series) with Turbo Boost Hack.
 
