@@ -3,6 +3,7 @@
 [aquí mismo]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
 [Controlador de audio]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
 [Controlador de Red Ethernet]: https://dlcdnets.asus.com/pub/ASUS/lan/Realtek_LAN_Win7-8-81-10_V792115_838115_101505.zip?model=H81M-K
+[Imagen de BIOS Original]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
 
 # Portal de Software de la Huananzhi X99E-K4
 
@@ -86,7 +87,7 @@ Xeon | Serie E5-46XX V4 | Broadwell-EP | Compatible con fuentes de 1000W o más,
 
 La respuesta corta es SI, si que puedes.
 
-La respuesta larga es SI, pero: Realmente necesitamos saber cuál es el chipset de la placa base (HM55 o P55), la tarjeta de audio (normalmente la Realtek ALC887) y la GPU que se utilizará para inicializarlo (AMD o Nvidia, las discretas/dedicadas de Intel no tienen soporte).
+La respuesta larga es SI, pero: Realmente necesitamos saber cuál es el chipset de la placa base (HM55 o P55), la tarjeta de audio (normalmente la Realtek ALC897) y la GPU que se utilizará para inicializarlo (AMD o Nvidia, las discretas/dedicadas de Intel no tienen soporte).
 
 Para la variante con chipset HM55 estoy trabajando en algunos EFI para arrancar MacOS como Hackintosh [aquí mismo]
 
