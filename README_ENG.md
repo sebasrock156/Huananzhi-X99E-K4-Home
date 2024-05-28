@@ -1,4 +1,4 @@
-[Aptio's V Tools]: https://drive.google.com/file/d/1vb90JzokyKYic07Fsm2rrJVzQSgUCB-E/view?usp=drive_link
+[Aptio's V Tools ]: https://www.mediafire.com/file/ucvt4pdxjrtpmu7/Tools_for_AMI_Aptio_V.zip/file
 [Aptio's Tools Mirror]: https://disk.yandex.com/d/XrZjsImaqxl8Uw
 [Aptio's BIOS Manager]:
 [Original BIOS Image]:
