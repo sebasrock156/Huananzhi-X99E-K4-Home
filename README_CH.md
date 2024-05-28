@@ -3,6 +3,7 @@
 [就在这里]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
 [音频驱动程序]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
 [以太网驱动程序]: https://dlcdnets.asus.com/pub/ASUS/lan/Realtek_LAN_Win7-8-81-10_V792115_838115_101505.zip?model=H81M-K
+[原始 BIOS 映像]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
 
 # 华南X99E-K4软件主页
 
@@ -47,7 +48,7 @@
   
 ⚠ **免责声明** ⚠：在这里我想对合理使用提出上诉，有些工具是技术服务和企业泄露的，这些工具的逆向工程通常是非法的，但在这里它用于教育目的。
 
-[Aptio 的 V 工具] | 【Aptio的工具镜像】: 这些工具是我们可以修改和刷新新的 BIOS 固件的工具。
+[Aptio 的 V 工具] | [Aptio的工具镜像]: 这些工具是我们可以修改和刷新新的 BIOS 固件的工具。
 
 ---
 </details>
