@@ -2,8 +2,10 @@
 [Herramientas para Aptio V (Alt)]: https://disk.yandex.com/d/XrZjsImaqxl8Uw
 [aquí mismo]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
 [Controlador de audio]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
-[Controlador de Red Ethernet]: https://dlcdnets.asus.com/pub/ASUS/lan/Realtek_LAN_Win7-8-81-10_V792115_838115_101505.zip?model=H81M-K
+[Controlador de Red Ethernet para W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
+[Controlador de Red Ethernet para W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Imagen de BIOS Original]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
+[Controlador del Chipset]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 
 # Portal de Software de la Huananzhi X99E-K4
 
@@ -11,17 +13,18 @@ Intentaré brindar soporte no oficial para la placa base más barata de Huananzh
 
 ## Controladores/Drivers (Windows 10/11)
 
-Todos los controladores a continuación fueron sugeridos por herramientas como Driver Booster.
+Todos los controladores que estarán a continuación, se han tomado de otras placas base de Huananzhi con componentes iguales o similares.
 
 <details>
 
-[Controladores de Intel (Chipset, E/S y Procesador)]
+[Controlador del Chipset]
 
-[Controladores de la Placa Base (M.2, SATA, Puertos USB)]
+[Controlador de Audio]: Éste está tomado de los oficiales de la H81M-K de Asus (que usa el Realtek ALC897 como dispositivo de audio)
 
-[Controlador de Audio]: Éste está tomado de los oficiales de la H81M-K de Asus (que usa el Realtek ALC887 como dispositivo de audio)
+[Controlador de Red Ethernet para W10] | [Controlador de Red Ethernet para W11]
 
-[Controlador de Red Ethernet]: Éste está tomado de los oficiales de la H81M-K de Asus (Aunque realmente podrían ser de cualquier fabricante, el RTL8111/8160 es universal a día de hoy).
+
+⚠ **Descargo de responsabilidad** ⚠: Si usas utilidades como Driver Booster, puede que dichos controladores corrompan cosas en el sistema, procede con precaución.
 
 ---
   
@@ -56,7 +59,7 @@ Como no tenemos un archivo oficial de Huananzhi, me he dado a la tarea de hacer 
 
 ## Guía de ensamblaje/Manual
 
-EN DESARROLLO
+EN DESARROLLO, basado en los originales de Huananzhi.
 
 ## ¿Qué CPU/Procesador es soportado?
 
