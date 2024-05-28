@@ -6,11 +6,19 @@
 
 I will try to give some unofficial support for the cheapest Huananzhi Motherboard, using 3rd party programs and utilities for this end.
 
-## Drivers (Windows)
+## Drivers (Windows 10/11)
+
+All the drivers below, were suggested by tools like Driver Booster.
 
 <details>
 
-  ---
+[Intel Drivers (Chipset, I/O and Processor)]
+
+[Motherboard Drivers (M.2, SATA, USB Hub)]
+
+[Audio Drivers]
+
+---
   
 </details>
 
@@ -48,8 +56,23 @@ IN DEVELOPMENT
 ## What CPU/Processor is supported?
 
 <details>
+Based on Socket (LGA 2011-3), all processors with that socket may be supported, but, the Southbridge (Chipset) is a mistery, I listed below some tested processors with this MoBo:
 
-  ---
+---
+Series | Model | Specifications | Notes
+---|---|---|:--:
+Core | i7-5820K | Haswell-E, 6 Cores/12 Threads@3.3 GHz/3.6GHz Turbo, TDP 140W | Compatible with a 500W PSU  
+Core | i7-5930K | Haswell-E, 6 Cores/12 Threads@3.5 GHz/3.7GHz Turbo, TDP 140W | Compatible with a 500W PSU
+Core | i7-6800K | Broadwell-E, 6 Cores/12 Threads@3.4 GHz/3.6GHz Turbo, TDP 140W | Compatible with a 500W PSU
+Core | i7-6850K | Broadwell-E, 6 Cores/12 Threads@3.6 GHz/3.8GHz Turbo, TDP 140W | Compatible with a 500W PSU
+Core | i7-6900K | Broadwell-E, 8 Cores/16 Threads@3.2 GHz/3.7GHz Turbo, TDP 140W | Compatible with a 500W PSU
+Core Extreme | i7-5960X | Haswell-E, 8 Cores/16 Threads@3.0 GHz/3.5GHz Turbo, TDP 140W | Compatible with a 500W PSU
+Core Extreme | i7-6950X | Broadwell-E, 10 Cores/20 Threads@3.0 GHz/3.5GHz Turbo, TDP 140W | Compatible with a 650W PSU
+Xeon | E5-1600 and E5-2600 V3 Series | Haswell-EP | Compatible with a 750W PSU or more
+Xeon | E5-1600 and E5-2600 V4 Series | Broadwell-EP | Compatible with a 750W PSU or more
+Xeon | E5-4600 V3 Series | Haswell-EP | Compatible with a 650W PSU, but using ECC RAM modules only (check the bandwidth before)
+Xeon | E5-4600 V4 Series | Broadwell-EP | Compatible with a 750W PSU, but using ECC RAM modules only (check the bandwidth before)
+---
   
 </details>
 
