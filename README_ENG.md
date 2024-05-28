@@ -1,7 +1,7 @@
 [Aptio's V Tools ]: https://www.mediafire.com/file/ucvt4pdxjrtpmu7/Tools_for_AMI_Aptio_V.zip/file
 [Aptio's Tools Mirror]: https://disk.yandex.com/d/XrZjsImaqxl8Uw
 [Just right here]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
-[Audio Drivers]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
+[Audio Drivers]: https://www.mediafire.com/file/046t9639xeyr243/X99-P4FAudio.rar/file
 [Ethernet Drivers for W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Ethernet Drivers for W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Original BIOS Image]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
@@ -19,7 +19,7 @@ All the drivers below have been brought from other Huananzhi motherboars with si
 
 [Chipset Driver] (Inherited from X99-P4F Motherboard)
 
-[Audio Drivers]
+[Audio Drivers] (Inherited from X99-P4F Motherboard)
 
 [Ethernet Drivers for W10] | [Ethernet Drivers for W11] (Inherited from X99-P4F Motherboard) 
 
