@@ -4,7 +4,7 @@
 [音频驱动程序]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
 [以太网驱动程序]: https://dlcdnets.asus.com/pub/ASUS/lan/Realtek_LAN_Win7-8-81-10_V792115_838115_101505.zip?model=H81M-K
 
-# 华南至X99E-K4软件主页
+# 华南X99E-K4软件主页
 
 我将尝试为最便宜的华南智主板提供一些非官方支持，为此使用第 3 方程序和实用程序。
 
