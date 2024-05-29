@@ -13,6 +13,31 @@
 
 I will try to give some unofficial support for the cheapest Huananzhi Motherboard, using 3rd party programs and utilities for this end.
 
+And yes, I want to correct the missing/erroneous data that Huananzhi has put on the specifications, so I put a new list with the same corrected ones
+
+<details>
+  
+---
+Component | Description
+---|:--:
+Chipset | Intel P55 or HM55 (randomly)
+Socket  | Intel LGA 2011-3
+RAM Memory Slots | DDR4(x4) until 64GB Support (Max.)
+RAM Memory Freq. | Dual Channel (on 2 or 4 slots) support since 1866Mhz until 2400Mhz ECC or Non-ECC modules
+Storage interface | Sata 2.0(x3)@3Gbps
+Storage expansion | One slot M.2 2280 NVME PCIEx4 3.0@32Gbps or M.2 NGFF Sata 2.0@3Gbps
+Audio card | Realtek HD Audio ALC897 (Surround 7.1 Support max.)
+Network card | Realtek Ethernet RTL8168 1000Gbps.
+Power interface | ATX 24pin + ATX 12v 8pin
+Fan interface | CPU Fan(x2) 4 pin (Fans with 3 pin connector are compatible too)
+Power supply | Between 6 to 8 phases of power supply (600W PSU or better)
+Dimensions | 210*182mm Micro-ATX
+Rear panel | PS/2 Port(x2), USB 2.0@480Mbps(x6), Network port (RJ45), Audio interface (3 jacks)
+Front panel | (Conectors only) USB 2.0(1x), USB 3.0(x1) Audio interface (x1) COM port (x1), Power/Reset interface
+Supported system | Windows (7, 10 and 11), GNU/Linux (x86_64), MacOS (with Hackintosh only)
+---
+</details>
+
 ## Drivers (Windows 10/11)
 
 All the drivers below have been brought from other Huananzhi motherboars with similar or same components.
