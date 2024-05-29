@@ -13,6 +13,32 @@
 
 Intentaré brindar soporte no oficial para la placa base más barata de Huananzhi, utilizando programas y utilidades de terceros para este fin.
 
+Y sí, quiero corregir los datos perdidos/erronéos que Huananzhi puso en las especificaciones, así que pondré una lista actualizada
+
+<details>
+  
+---
+Componente | Descripción
+---|:--:
+Chipset | Intel P55 o HM55 (al azar)
+Zócalo  | Intel LGA 2011-3
+Ranuras de memoria RAM | DDR4(x4) con soporte hasta 64GB (Max.)
+Frecuencia de RAM. | Soporte Dual-channel (en 2 o 4 ranuras) desde 1866Mhz hasta 2400Mhz con modulos ECC o No-ECC
+Interfaz de almacenamiento | Sata 2.0(x3)@3Gbps
+Expansión de almacenamiento | Una ranura M.2 2280 NVME PCIEx4 3.0@32Gbps o M.2 NGFF Sata 2.0@3Gbps
+Tarjeta de audio | Realtek HD Audio ALC897 (Soporta Surround 7.1 max.)
+Tarjeta de red | Realtek Ethernet RTL8168 1000Gbps.
+Interfaz de corriente | ATX de 24 pines + ATX 12v de 8 pines
+Interfaz de disipación | Ventilador para CPU(x2) de 4 pines (Ventiladores con conector de 3 pines también son compatibles)
+Alimentación de energía | Entre 6 a 8 fases de alimentación (Con fuentes de 600W o superior)
+Dimensiones | 210*182mm Micro-ATX
+Panel trasero | PS/2 Port(x2), USB 2.0@480Mbps(x6), puerto de red (RJ45), interfaz de audio (3 conectores)
+Panel frontal | (Solo conectores) USB 2.0(1x), USB 3.0(x1) interfaz de audio (x1) puerto COM (x1), Interfaz de encendido/apagado - reinicio
+Sistema soportado | Windows (7, 10 y 11), GNU/Linux (x86_64), MacOS (solamente con Hackintosh)
+---
+</details>
+
+
 ## Controladores/Drivers (Windows 10/11)
 
 Todos los controladores que estarán a continuación, se han tomado de otras placas base de Huananzhi con componentes iguales o similares.
