@@ -23,7 +23,7 @@ Component | Description
 Chipset | Intel P55 or HM55 (randomly)
 Socket  | Intel LGA 2011-3
 RAM Memory Slots | DDR4(x4) until 64GB Support (Max.)
-RAM Memory Freq. | Dual Channel (on 2 or 4 slots) support since 1866Mhz until 2400Mhz ECC or Non-ECC modules
+RAM Memory Freq. | Quad-channel (on 2 or 4 slots) support since 1866Mhz until 2400Mhz ECC or Non-ECC modules
 Storage interface | Sata 2.0(x3)@3Gbps
 Storage expansion | One slot M.2 2280 NVME PCIEx4 3.0@32Gbps or M.2 NGFF Sata 2.0@3Gbps
 Audio card | Realtek HD Audio ALC897 (Surround 5.1 Support max.)
