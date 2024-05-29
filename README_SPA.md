@@ -26,8 +26,8 @@ Ranuras de memoria RAM | DDR4(x4) con soporte hasta 64GB (Max.)
 Frecuencia de RAM. | Soporte Dual-channel (en 2 o 4 ranuras) desde 1866Mhz hasta 2400Mhz con modulos ECC o No-ECC
 Interfaz de almacenamiento | Sata 2.0(x3)@3Gbps
 Expansión de almacenamiento | Una ranura M.2 2280 NVME PCIEx4 3.0@32Gbps o M.2 NGFF Sata 2.0@3Gbps
-Tarjeta de audio | Realtek HD Audio ALC897 (Soporta Surround 7.1 max.)
-Tarjeta de red | Realtek Ethernet RTL8168 1000Gbps.
+Tarjeta de audio | Realtek HD Audio ALC897 (Soporta Surround 5.1 max.)
+Tarjeta de red | Realtek Ethernet RTL8168 1Gbps.
 Interfaz de corriente | ATX de 24 pines + ATX 12v de 8 pines
 Interfaz de disipación | Ventilador para CPU(x2) de 4 pines (Ventiladores con conector de 3 pines también son compatibles)
 Alimentación de energía | Entre 6 a 8 fases de alimentación (Con fuentes de 600W o superior)
