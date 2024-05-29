@@ -37,7 +37,7 @@ Since we haven't an official file from Huananzhi, I have taken the task of makin
 
 [Original BIOS Image]: This is a dump from Stock BIOS from my Motherboard, without modifies.
 
-[Hacked BIOS Image]: This is a modified BIOS Image for boot Xeons V3 Series (and some V4 Series) with Turbo Boost Hack.
+Try use the Turbo Boost Hack if you have a Xeon V3; in my case, I have a Xeon V4 and may not work at all.
 
 ---
 
