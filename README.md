@@ -8,7 +8,7 @@
 
 [Português]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/LEIA-ME.md
 
-[中国的]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_CH.md
+[中国的]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/这是阅读.md
 
 [webpage]: http://www.huananzhi.com/en/more.php?lm=10&id=746
 
