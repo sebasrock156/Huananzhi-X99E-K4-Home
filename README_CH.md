@@ -26,8 +26,8 @@ RAM 内存插槽 | DDR4(x4) 最高支持 64GB
 RAM 内存频率。| 双通道（2 个或 4 个插槽）支持 1866Mhz 至 2400Mhz ECC 或非 ECC 模块
 存储接口 | Sata 2.0(x3)@3Gbps
 存储扩展 | 一个插槽 M.2 2280 NVME PCIEx4 3.0@32Gbps 或 M.2 NGFF Sata 2.0@3Gbps
-声卡 | Realtek HD 音频 ALC897（最大支持环绕声 7.1）
-网卡 | Realtek 以太网 RTL8168 1000Gbps。
+声卡 | Realtek HD 音频 ALC897（最大支持环绕声 5.1）
+网卡 | Realtek 以太网 RTL8168 1Gbps。
 电源接口 | ATX 24 针 + ATX 12 伏 8 针
 风扇接口 | CPU 风扇 (x2) 4 针（带 3 针连接器的风扇也兼容）
 电源 | 6 至 8 相电源（600W PSU 或更高）
