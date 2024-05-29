@@ -9,6 +9,8 @@
 
 # Huananzhi X99E-K4 Software Home
 
+![Motherboard](https://i.imgur.com/FtSCjxq.png)
+
 I will try to give some unofficial support for the cheapest Huananzhi Motherboard, using 3rd party programs and utilities for this end.
 
 ## Drivers (Windows 10/11)
