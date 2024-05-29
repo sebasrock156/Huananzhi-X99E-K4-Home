@@ -1,7 +1,7 @@
 [Aptio 的 V 工具]: https://www.mediafire.com/file/ucvt4pdxjrtpmu7/Tools_for_AMI_Aptio_V.zip/file
 [Aptio的工具镜像]: https://disk.yandex.com/d/XrZjsImaqxl8Uw
 [就在这里]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
-[音频驱动程序]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
+[音频驱动程序]: https://www.mediafire.com/file/046t9639xeyr243/X99-P4FAudio.rar/file
 [适用于 W10 的以太网驱动程序]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [适用于 W11 的以太网驱动程序]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [原始 BIOS 映像]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
@@ -38,7 +38,7 @@
 
 [原始 BIOS 映像]：这是我主板上的 Stock BIOS 的转储，未经修改。
 
-[被黑的 BIOS 映像]：这是经过修改的 BIOS 映像，用于通过 Turbo Boost Hack 启动 Xeon V3 系列（和某些 V4 系列）。
+如果您有 Xeon V3，请尝试使用 Turbo Boost Hack；就我而言，我有一个 Xeon V4，可能根本不起作用。
 ---
 
 </details>
