@@ -26,8 +26,8 @@ RAM Memory Slots | DDR4(x4) until 64GB Support (Max.)
 RAM Memory Freq. | Dual Channel (on 2 or 4 slots) support since 1866Mhz until 2400Mhz ECC or Non-ECC modules
 Storage interface | Sata 2.0(x3)@3Gbps
 Storage expansion | One slot M.2 2280 NVME PCIEx4 3.0@32Gbps or M.2 NGFF Sata 2.0@3Gbps
-Audio card | Realtek HD Audio ALC897 (Surround 7.1 Support max.)
-Network card | Realtek Ethernet RTL8168 1000Gbps.
+Audio card | Realtek HD Audio ALC897 (Surround 5.1 Support max.)
+Network card | Realtek Ethernet RTL8168 1Gbps.
 Power interface | ATX 24pin + ATX 12v 8pin
 Fan interface | CPU Fan(x2) 4 pin (Fans with 3 pin connector are compatible too)
 Power supply | Between 6 to 8 phases of power supply (600W PSU or better)
