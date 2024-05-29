@@ -9,6 +9,8 @@
 
 # Portal de Software de la Huananzhi X99E-K4
 
+![Motherboard](https://i.imgur.com/FtSCjxq.png)
+
 Intentaré brindar soporte no oficial para la placa base más barata de Huananzhi, utilizando programas y utilidades de terceros para este fin.
 
 ## Controladores/Drivers (Windows 10/11)
