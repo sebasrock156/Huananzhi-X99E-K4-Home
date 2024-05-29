@@ -1,6 +1,6 @@
 [English]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_ENG.md
 
-[Español]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_SPA.md
+[Español]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/Leéme.md
 
 [Français]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_FRA.md
 
