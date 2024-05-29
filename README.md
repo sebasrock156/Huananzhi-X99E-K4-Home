@@ -8,7 +8,11 @@
 
 # Huananzhi X99E-K4 Software Home
 
+
 <center>
+
+![Branding](https://i.imgur.com/Zw3JDuH.png)
+  
 Please, select your language:
 
 
@@ -22,7 +26,7 @@ Unofficial Support | Soporte no oficial | 非官方支持
 
 This is a project for try to do an unofficial support to the cheapest Huananzhi Motherboard (based on their blank [webpage])
 
-![Motherboard](https://i.imgur.com/FtSCjxq.png)
+
 
 
 
