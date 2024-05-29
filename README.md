@@ -8,7 +8,7 @@
 
 # Huananzhi X99E-K4 Software Home
 
-![Motherboard](https://i.imgur.com/g5Gvk2l.png)
+![Motherboard](https://i.imgur.com/FtSCjxq.png)
 
 
 This is a project for try to do an unofficial support to the cheapest Huananzhi Motherboard (based on their blank [webpage])
