@@ -2,6 +2,12 @@
 
 [Español]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_SPA.md
 
+[Français]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_FRA.md
+
+[Русский]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_RUS.md
+
+[Português]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_POR.md
+
 [中国的]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_CH.md
 
 [webpage]: http://www.huananzhi.com/en/more.php?lm=10&id=746
@@ -17,9 +23,9 @@ Please, select your language:
 
 
 ---
-[English] | [Español] | [中国的]
----|---|:--:
-Unofficial Support | Soporte no oficial | 非官方支持
+[English] | [Español] | [Français] | [Português] | [Русский] | [中国的]
+---|---|---|---|---|:--:
+Unofficial Support | Soporte no oficial | Soutien non officiel | Suporte não oficial | Неофициальная поддержка |非官方支持
 ---
 
 </center>
