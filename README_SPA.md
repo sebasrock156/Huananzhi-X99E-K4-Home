@@ -17,11 +17,11 @@ Todos los controladores que estarán a continuación, se han tomado de otras pla
 
 <details>
 
-[Controlador del Chipset]
+[Controlador del Chipset] (Tomado de la X99-P4F)
 
-[Controlador de Audio]: Éste está tomado de los oficiales de la H81M-K de Asus (que usa el Realtek ALC897 como dispositivo de audio)
+[Controlador de Audio] (Tomado de la X99-P4F)
 
-[Controlador de Red Ethernet para W10] | [Controlador de Red Ethernet para W11]
+[Controlador de Red Ethernet para W10] | [Controlador de Red Ethernet para W11] (Tomado de la X99-P4F)
 
 
 ⚠ **Descargo de responsabilidad** ⚠: Si usas utilidades como Driver Booster, puede que dichos controladores corrompan cosas en el sistema, procede con precaución.
