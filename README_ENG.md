@@ -33,7 +33,7 @@ Fan interface | CPU Fan(x2) 4 pin (Fans with 3 pin connector are compatible too)
 Power supply | Between 6 to 8 phases of power supply (600W PSU or better)
 Dimensions | 210*182mm Micro-ATX
 Rear panel | PS/2 Port(x2), USB 2.0@480Mbps(x6), Network port (RJ45), Audio interface (3 jacks)
-Front panel | (Conectors only) USB 2.0(1x), USB 3.0(x1) Audio interface (x1) COM port (x1), Power/Reset interface
+Front panel | (Connectors only) USB 2.0(1x), USB 3.0(x1) Audio interface (x1) COM port (x1), Power/Reset interface
 Supported system | Windows (7, 10 and 11), GNU/Linux (x86_64), MacOS (with Hackintosh only)
 ---
 </details>
