@@ -1,7 +1,7 @@
 [Herramientas para Aptio V]: https://www.mediafire.com/file/ucvt4pdxjrtpmu7/Tools_for_AMI_Aptio_V.zip/file
 [Herramientas para Aptio V (Alt)]: https://disk.yandex.com/d/XrZjsImaqxl8Uw
 [aquí mismo]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore
-[Controlador de audio]: https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_RTK_TSD_W10_64_V6090501_20210226R.zip?model=H81M-K
+[Controlador de audio]: https://www.mediafire.com/file/046t9639xeyr243/X99-P4FAudio.rar/file
 [Controlador de Red Ethernet para W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Controlador de Red Ethernet para W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Imagen de BIOS Original]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
@@ -38,7 +38,7 @@ Como no tenemos un archivo oficial de Huananzhi, me he dado a la tarea de hacer 
 
 [Imagen de BIOS Original]: Esta es un volcado del BIOS de stock de mi placa base, sin modificaciones.
 
-[Imagen de BIOS Hackeada]: Esta es una imagen de BIOS modificada para los Xeon V3 (y algunos V4) con Turbo Boost Hack.
+Intente realizar el Hack del Turbo Boost si tiene un Xeon V3; en mi caso, tengo un Xeon V4 y puede que no funcione en lo absoluto.
 
 ---
 
