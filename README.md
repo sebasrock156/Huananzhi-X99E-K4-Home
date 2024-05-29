@@ -4,7 +4,7 @@
 
 [Français]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_FRA.md
 
-[Русский]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/README_RUS.md
+[Русский]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/Прочтименя.md
 
 [Português]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/LEIA-ME.md
 
