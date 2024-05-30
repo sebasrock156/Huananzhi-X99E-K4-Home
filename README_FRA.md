@@ -22,7 +22,7 @@ Composant | Description
 ---|:--:
 Chipset | Intel P55 ou HM55 (aléatoire)
 Prise | Intel LGA2011-3
-Emplacements de mémoire RAM | DDR4(x4) avec prise en charge jusqu'à 64 Go (Max.)
+Emplacements de mémoire RAM | DDR4(x4) avec prise en charge jusqu'à 128Go (Max.)
 Fréquence de la RAM. | Prise en charge de Quad-channel (en 2 ou 4 emplacements) de 1866 MHz à 2400 MHz avec modules ECC ou non-ECC
 Interface de stockage | SATA 2.0(x3) à 3 Gbit/s
 Extension du stockage | Un emplacement M.2 2280 NVME PCIEx4 3.0 à 32 Gbit/s ou M.2 NGFF Sata 2.0 à 3 Gbit/s
