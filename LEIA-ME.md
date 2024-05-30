@@ -22,7 +22,7 @@ Componente | Descrição
 ---|:--:
 Chipset | Intel P55 ou HM55 (aleatório)
 Soquete | Intel LGA 2011-3
-Slots de memória RAM | DDR4 (x4) com suporte até 64 GB (máx.)
+Slots de memória RAM | DDR4 (x4) com suporte até 128GB (máx.)
 Frequência de RAM | Suporte a Quad-Channel (em 2 ou 4 slots) de 1866 MHz a 2400 MHz com módulos ECC ou non-ECC
 Interface de armazenamento | Sata 2.0(x3)@3Gbps
 Expansão de armazenamento | Um slot M.2 2280 NVME PCIEx4 3.0@32Gbps ou M.2 NGFF Sata 2.0@3Gbps
