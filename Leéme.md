@@ -22,7 +22,7 @@ Componente | Descripción
 ---|:--:
 Chipset | Intel P55 o HM55 (al azar)
 Zócalo  | Intel LGA 2011-3
-Ranuras de memoria RAM | DDR4(x4) con soporte hasta 64GB (Max.)
+Ranuras de memoria RAM | DDR4(x4) con soporte hasta 128GB (Max.)
 Frecuencia de RAM. | Soporte Quad-channel (en 2 o 4 ranuras) desde 1866Mhz hasta 2400Mhz con modulos ECC o No-ECC
 Interfaz de almacenamiento | Sata 2.0(x3)@3Gbps
 Expansión de almacenamiento | Una ranura M.2 2280 NVME PCIEx4 3.0@32Gbps o M.2 NGFF Sata 2.0@3Gbps
