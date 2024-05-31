@@ -7,6 +7,7 @@
 [Imagem original do BIOS]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
 [Imagem do BIOS desbloqueada]: https://www.mediafire.com/file/x4vfwu4vqol0hdd/X99E-K4+Unlocked.rom/file
 [Driver de chipset]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
+[GUIA EXPRESS do AMI]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/AMIXpress-Guide.md
 
 # Portal do Software pra Huananzhi X99E-K4
 
