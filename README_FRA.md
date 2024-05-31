@@ -5,6 +5,7 @@
 [Pilote réseau Ethernet pour W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Pilote réseau Ethernet pour W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Image originale du BIOS]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
+[Image du BIOS déverrouillée]: https://www.mediafire.com/file/x4vfwu4vqol0hdd/X99E-K4+Unlocked.rom/file
 [Pilote du chipset]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 
 # Portail logiciel pour Huananzhi X99E-K4
@@ -64,7 +65,9 @@ Tous les pilotes ci-dessous proviennent d'autres cartes mères Huananzhi avec de
   
 Comme nous n'avons pas de fichier officiel de Huananzhi, j'ai pris la tâche de faire un dump de ma propre carte mère.
 
-[Image originale du BIOS] : Il s'agit d'un dump du BIOS d'origine de ma carte mère, sans modifications.
+[Image originale du BIOS]: Il s'agit d'un dump du BIOS d'origine de ma carte mère, sans modifications.
+
+[Image du BIOS déverrouillée]: Il s'agit d'un BIOS avec les paramètres Overclock activés/déverrouillés. (**RECOMMANDÉ UNIQUEMENT POUR LES PROCESSEURS XEON 16XX V3/V4 ET CORE EXTREME ; JE NE GARANTIS PAS AUSSI DE BONS RÉSULTATS**)
 
 Essayez le Turbo Boost Hack si vous possédez un Xeon V3 ; dans mon cas, j'ai un Xeon V4 et ça risque de ne pas fonctionner du tout.
 
@@ -87,7 +90,7 @@ Essayez le Turbo Boost Hack si vous possédez un Xeon V3 ; dans mon cas, j'ai u
 
 EN COURS DE DÉVELOPPEMENT, basé sur les originaux Huananzhi.
 
-## Quel CPU/processeur est pris en charge ?
+## Quel CPU/processeur est pris en charge?
 
 <details>
 Basé sur Socket (LGA 2011-3), tous les processeurs dotés de ce socket peuvent être pris en charge, mais le Southbridge (Chipset) est un mystère. Ci-dessous, j'ai répertorié quelques processeurs testés avec cette carte mère:
