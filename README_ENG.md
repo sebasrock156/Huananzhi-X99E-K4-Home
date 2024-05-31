@@ -7,6 +7,7 @@
 [Original BIOS Image]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
 [Unlocked BIOS Image]: https://www.mediafire.com/file/x4vfwu4vqol0hdd/X99E-K4+Unlocked.rom/file
 [Chipset Driver]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
+[AMI EXPRESS GUIDE]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/AMIXpress-Guide.md
 
 # Huananzhi X99E-K4 Software Home
 
@@ -80,6 +81,8 @@ Try use the Turbo Boost Hack if you have a Xeon V3; in my case, I have a Xeon V4
 ⚠ **ADVICE** ⚠: Here I want appeal at Fair Use, some tools are leaks from Technical Services and Enterprises, the Inverse Engineering of these are usually illegal, but here it's used for educational purposes.
 
 [Aptio's V Tools] | [Aptio's Tools Mirror]: These tools are we could modify and flash new BIOS Firmwares.
+
+To know how they work, I attach the [AMI EXPRESS GUIDE] to open and flash firmwares easily and simply.
 
 ---
 </details>
