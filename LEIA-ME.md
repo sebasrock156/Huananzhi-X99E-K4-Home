@@ -83,6 +83,8 @@ Experimente o Turbo Boost Hack se você tiver um Xeon V3; no meu caso, tenho um 
 
 [Ferramentas pra Aptio V] | [Ferramentas pra Aptio V (Alt)]: Essas ferramentas nos permitem modificar e atualizar novos firmwares de BIOS.
 
+Para saber como funcionam, anexei o [GUIA EXPRESS do AMI] (em inglês) para abrir e atualizar firmwares de forma fácil e simples.
+
 ---
 </details>
 
