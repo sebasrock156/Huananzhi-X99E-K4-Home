@@ -5,6 +5,7 @@
 [Driver de rede Ethernet pra W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Driver de rede Ethernet pra W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Imagem original do BIOS]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
+[Imagem do BIOS desbloqueada]: https://www.mediafire.com/file/x4vfwu4vqol0hdd/X99E-K4+Unlocked.rom/file
 [Driver de chipset]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 
 # Portal do Software pra Huananzhi X99E-K4
@@ -65,6 +66,8 @@ Todos os drivers abaixo foram retirados de outras placas-mãe Huananzhi com comp
 Como não temos um arquivo oficial de Huananzhi, assumi a tarefa de fazer um dump da minha própria placa-mãe.
 
 [Imagem original do BIOS]: Este é um dump do BIOS padrão da minha placa-mãe, sem modificações.
+
+[Imagem do BIOS desbloqueada]: Este é um BIOS com configurações de Overclock habilitadas/desbloqueadas. (**RECOMENDADO SOMENTE PARA PROCESSADORES XEON 16XX V3/V4 E CORE EXTREME; TAMBÉM NÃO GARANTO BONS RESULTADOS**)
 
 Experimente o Turbo Boost Hack se você tiver um Xeon V3; no meu caso, tenho um Xeon V4 e pode não funcionar.
 
