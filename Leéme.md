@@ -5,6 +5,7 @@
 [Controlador de Red Ethernet para W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Controlador de Red Ethernet para W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Imagen de BIOS Original]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
+[Imagen de BIOS Desbloqueada]: https://www.mediafire.com/file/x4vfwu4vqol0hdd/X99E-K4+Unlocked.rom/file
 [Controlador del Chipset]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 
 # Portal de Software de la Huananzhi X99E-K4
@@ -65,6 +66,8 @@ Todos los controladores que estarán a continuación, se han tomado de otras pla
 Como no tenemos un archivo oficial de Huananzhi, me he dado a la tarea de hacer un volcado desde mi propia placa base.
 
 [Imagen de BIOS Original]: Esta es un volcado del BIOS de stock de mi placa base, sin modificaciones.
+
+[Imagen de BIOS Desbloqueada]: Esta es una BIOS con los ajustes de Overclock habilitados/desbloqueados. (**RECOMENDADO ÚNICAMENTE PARA PROCESADORES XEON 16XX V3/V4 Y CORE EXTREME; TAMPOCO GARANTIZO BUENOS RESULTADOS**)
 
 Intente realizar el Hack del Turbo Boost si tiene un Xeon V3; en mi caso, tengo un Xeon V4 y puede que no funcione en lo absoluto.
 
