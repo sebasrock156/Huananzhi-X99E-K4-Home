@@ -127,7 +127,39 @@ As we can see, some specific values ​​can be defined such as:
 ## 4. Flashing a new BIOS firmware
 <details>
 
-New info tommorow
+It's time to flash our modified BIOS firmware to our motherboard, so let's run AFU again.
+
+We go to the "Open" option, looking for our modified BIOS firmware in .rom format and select it as the image below:
+
+![AFU4](https://i.imgur.com/l6UNqOr.png)
+
+*After this, you will be automatically taken to the “Setup” tab, make sure the “Main BIOS Image” option is checked.*
+
+
+Then, we click on "Flash" (without measuring the consequences) and wait for the process to finish.
+
+![AFU5](https://i.imgur.com/mn6Tvqc.png)
+
+*1. If the installation of the new firmware is successful, green boxes will be displayed with a message in "Stage: Done"*
+ 
+*2. If the installation of the new firmware fails we will see the boxes in red plus a warning in "Stage: Failed"*
+
+*3. Otherwise, if the installation is interrupted by any computer/user action, **IT IS NOT RECOMMENDED TO DISCONNECT OR RESTART THE DEVICE UNTIL A BIOS FIRMWARE BE INSTALLED**.*
 
 </details>
+
+## 5. Credits and Complaints
+
+<details>
+
+- American Megatrends International (AMI): Creators of the tools, official manuals and BIOS firmwares as a basis for OEM manufacturers.
+
+- Internet: For allow AMI customers leak these tools and share knowledge with the world.
+
+- Huananzhi: For making cheap motherboards that allow BIOS dumping without the need for an external programmer.
+
+- Myself: For making this possible.
+   
+</details>
+
 
