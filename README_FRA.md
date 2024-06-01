@@ -116,17 +116,3 @@ Xeon | Série E5-46XX V4 | Broadwell-EP | Compatible avec les sources de 750W ou
   
 </details>
 
-## Puis-je faire du Hackintosh dessus?
-
-<details>
-
-La réponse courte est OUI, oui, vous le pouvez.
-
-La réponse longue est OUI, mais : nous avons vraiment besoin de savoir quel est le chipset de la carte mère (HM55 ou P55), la carte audio (généralement la Realtek ALC897) et le GPU qui sera utilisé pour l'initialiser (AMD ou Nvidia, le processeur discret). ceux / dédiés d'Intel ne sont pas pris en charge).
-
-Pour la variante du chipset HM55, je travaille sur certains EFI pour démarrer MacOS comme Hackintosh [ici]
-
----
-  
-</details>
-
