@@ -97,6 +97,7 @@ EM DESENVOLVIMENTO, baseado nos originais de Huananzhi.
 
 <details>
 Baseado em Socket (LGA 2011-3), todos os processadores com esse soquete podem ser suportados, mas o Southbridge (Chipset) é um mistério. Abaixo listei alguns processadores testados com esta placa-mãe:
+
 ---
 Série | Modelo | Especificações | Notas
 ---|---|---|:--:
@@ -112,5 +113,6 @@ Xeon | Série E5-16XX e E5-26XX V4 | Broadwell-EP | Compatível com fontes do 75
 Xeon | Série E5-46XX V3 | Haswell-EP | Compatível com fontes do 750W ou mais, mas usando apenas módulos de RAM ECC (verifique a largura de banda primeiro)
 Xeon | Série E5-46XX V4 | Broadwell-EP | Compatível com fontes do 1000W ou mais, mas usando apenas módulos de RAM ECC (verifique a largura de banda primeiro)
 ---
-  
+
 </details>
+
