@@ -124,7 +124,7 @@ As we can see, some specific values ​​can be defined such as:
   
 </details>
 
-# 4. Flashing a new BIOS firmware
+## 4. Flashing a new BIOS firmware
 <details>
 
 New info tommorow
