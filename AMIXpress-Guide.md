@@ -87,5 +87,43 @@ Once the process is complete, the "Progress" tab will look like this:
 ## 3. Modifying the BIOS Firmware
 
 <details>
+
+Now that we have a dump of our BIOS firmware, we proceed to run AMIBCP to modify it.
+
+*We go to the "Open 📂" option, look for our firmware in .fd/.rom format and select it*
+
+![BCP1](https://i.imgur.com/gqltUUE.png)
+
+
+At this point, we will see on the left panel, the entire structure of the firmware; while on the right side, each and every one of the options to customize are displayed.
+
+
+![BCP2](https://i.imgur.com/uf588We.png)
+
+*In this case, I will do the demonstration with the Overclocking settings*
+
+
+As we can see, some specific values ​​can be defined such as:
+
+- Control group structures: Also known as categories, this is where different sets of instructions are grouped together.
+- Show: As the name suggests, it defines whether a category/instruction is visible (or not) in the BIOS Firmware.
+- Access/Use: Defines who is the viewer of the categories/options in the BIOS interface. This is divided into 4 groups:
+
+  - Default: Sets to a specific viewer type defined by the manufacturer (in this case AMI).
+  - User: Defines any type of user that enters the interface as an observer.
+  - Extended User: It is very similar to the previous one, but this observer can only access with certain "administrative permissions" (such as a password in the BIOS Firmware)
+  - Supervisor: This observer needs to enable the BIOS "Administrator Mode" to see the categories/options
+ 
+- Fail-safe: Defines specific parameters to be met, such as a switch, a data swap option or a toggle option (eg. Graphic memory allocation is the Category, User is the Access (viewer) on BIOS UI and "2GB" is the Fail-safe option, like a testing value). 
+- Optimal: It is a parameter similar to the fail-safe parameter, but within values ​​previously established by the manufacturer (eg. Graphic memory allocation is the Category, User is the Access (viewer) on BIOS UI, "2GB" is the Fail-safe option and "128MB" is the Optimal option, like a final/effective value).
+
+
+*Once our modification is complete, we can save (or save as) our modified firmware as seen below.*
+
+![BCP3](https://i.imgur.com/ctFVcvQ.png)
   
 </details>
+
+# 4. Flashing a new BIOS firmware
+
+
