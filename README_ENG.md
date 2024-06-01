@@ -114,17 +114,3 @@ Xeon | E5-4600 V4 Series | Broadwell-EP | Compatible with a 750W PSU, but using 
   
 </details>
 
-## Can I do Hackintosh on it?
-
-<details>
-
-The short answer is YES, you can.
-
-The long answer is YES, but: Really we are need to know what is the Motherboard Chipset (HM55 or P55), Audio Card and GPU that are using for run it.
-
-For the variant with HM55 Chipset I'm working in some EFIes for boot MacOS as Hackintosh PC, [Just right here]
-
----
-  
-</details>
-
