@@ -5,7 +5,7 @@
 [Ethernet Drivers for W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Ethernet Drivers for W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Original BIOS Image]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
-[Unlocked BIOS Image]: https://www.mediafire.com/file/x4vfwu4vqol0hdd/X99E-K4+Unlocked.rom/file
+[Unlocked BIOS Image]: https://www.mediafire.com/file/qtwh4jle25884rq/X99E-K4_VGXX02_Unlocked.rom/file
 [Chipset Driver]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 [AMI EXPRESS GUIDE]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/AMIXpress-Guide.md
 
@@ -69,6 +69,21 @@ Since we haven't an official file from Huananzhi, I have taken the task of makin
 [Unlocked BIOS Image]: This is a BIOS image with Overclock Settings enabled/unlocked. (**THIS IS FOR XEON 16xx V3/V4 AND CORE EXTREME PROCESSORS ONLY; I CAN'T GUARANTEE GOOD RESULTS**)
 
 Try use the Turbo Boost Hack if you have a Xeon V3; in my case, I have a Xeon V4 and may not work at all.
+
+### Lightweight Overclock guide
+
+1. Boot to BIOS Interface and go to **IntelRCSetup-->Advanced Power Manager Configuration-->CPU Advanced PM Tuning-->Program PPO_CURT_CFG_CTRL_MSR** and change:
+   - **PPO Current_Cfg_CTL Ovrd** to **MANUAL**
+   - **Current Config** option to **Enable**
+   - **Current limitation** to **2048**
+2. Now go back to main **IntelRCSetup** and later go to **Overclocking Feature**:
+
+   *Overclocking Feature needs to be ENABLED for continue*
+
+   Now go to **Processor** and change:
+    - **Core Voltage Mode** to **Override**
+    - **Core Voltage Override** to **XXXX**, where (XXXX) it's some Voltage multiple; If your processor have 90W or 105W of TDP usually, use 1.1v/1.2v for run with all their cores, so, with this option, we go to force a Voltage limit that processor can use in Motherboard, *eg: I have a Xeon E5-2640v4 that have 90W of TDP, I want define that MoBo force 1.2v for it, so, define the Core Voltage Override value as 1200* 
+
 
 ---
 
