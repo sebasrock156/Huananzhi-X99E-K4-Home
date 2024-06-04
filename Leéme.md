@@ -5,7 +5,7 @@
 [Controlador de Red Ethernet para W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Controlador de Red Ethernet para W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Imagen de BIOS Original]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
-[Imagen de BIOS Desbloqueada]: https://www.mediafire.com/file/x4vfwu4vqol0hdd/X99E-K4+Unlocked.rom/file
+[Imagen de BIOS Desbloqueada]: https://www.mediafire.com/file/qtwh4jle25884rq/X99E-K4_VGXX02_Unlocked.rom/file
 [Controlador del Chipset]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 [GUIA EXPRESS de AMI]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/AMIXpress-Guide.md
 
@@ -71,6 +71,23 @@ Como no tenemos un archivo oficial de Huananzhi, me he dado a la tarea de hacer 
 [Imagen de BIOS Desbloqueada]: Esta es una BIOS con los ajustes de Overclock habilitados/desbloqueados. (**RECOMENDADO ÚNICAMENTE PARA PROCESADORES XEON 16XX V3/V4 Y CORE EXTREME; TAMPOCO GARANTIZO BUENOS RESULTADOS**)
 
 Intente realizar el Hack del Turbo Boost si tiene un Xeon V3; en mi caso, tengo un Xeon V4 y puede que no funcione en lo absoluto.
+
+### Guía ligera de overclock
+
+1. Inicia la interfaz de la BIOS, ve a **IntelRCSetup-->Advanced Power Manager Configuration-->CPU Advanced PM Tuning-->Program PPO_CURT_CFG_CTRL_MSR** y cambia:
+   - La opción **PPO Current_Cfg_CTL Ovrd** a **MANUAL**
+   - La opción **Current Config** a **Enable**
+   - La opción **Current limitation** a **2048**
+
+2. Ahora, volvemos a **IntelRCSetup**, y luego vamos a **Overclocking Feature**:
+
+   *La **Caracteristica de Overclocking** necesita estar HABILITADO para continuar*
+
+   Ahora, vamos a **Processor** y cambiamos:
+    - La opción **Core Voltage Mode** a **Override**
+    - La opción **Core Voltage Override** a **XXXX**, donde (XXXX) es un múltiplo de Voltaje; Si tu procesador tiene/soporta 90W o 105W de TDP, normalmente, usa 1.1v/1.2v para hacer funcionar todos sus núcleos, entonces, con esta opción vamosa a forzar un límite de voltaje que el procesador pueda tomar de la Placa Base, *ej: Tengo un Xeon E5-2640v4 que posee 90W de TDP, Quiero definir que la Placa Base fuerze 1.2v para el, de este modo, defino entonces el valor de Core Voltage Override como 1200*
+  
+3. Ahora salimos de la Interfaz de la BIOS con F4 y guardamos los cambios. 
 
 ---
 
