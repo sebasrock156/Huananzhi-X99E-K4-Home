@@ -108,7 +108,16 @@ Para saber cómo funcionan, anexo la [GUIA EXPRESS de AMI] (en Inglés) para abr
 
 ## Guía de ensamblaje/Manual
 
-EN DESARROLLO, basado en los originales de Huananzhi.
+EN DESARROLLO, a continucaión las primeras muestras del mismo:
+
+<details>
+
+ ![GUIDE_MAIN](https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/Guide%20Project/UserGuideX99E-K4%20Coverlow.png?raw=true)
+ ![GUIDE_SPA2](https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/Guide%20Project/Gu%C3%ADa%20Espa%C3%B1ol/Manual2.png?raw=true)
+ ![GUIDE_SPA3](https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/Guide%20Project/Gu%C3%ADa%20Espa%C3%B1ol/Manual3.png?raw=true)
+ 
+  
+</details>
 
 ## ¿Qué CPU/Procesador es soportado?
 
