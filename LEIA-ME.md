@@ -72,6 +72,23 @@ Como não temos um arquivo oficial de Huananzhi, assumi a tarefa de fazer um dum
 
 Experimente o Turbo Boost Hack se você tiver um Xeon V3; no meu caso, tenho um Xeon V4 e pode não funcionar.
 
+### Guia de overclock leve
+
+1. Inicie a interface do BIOS, vá para **IntelRCSetup-->Advanced Power Manager Configuration-->CPU Advanced PM Tuning-->Program PPO_CURT_CFG_CTRL_MSR** e altere:
+   - A opção **PPO Current_Cfg_CTL Ovrd** pra **MANUAL**
+   - A opção **Current Config** pra **Enable**
+   - A opção **Current limitation** pra **2048**
+
+2. Agora, voltamos para **IntelRCSetup** e depois vamos pra **Overclocking Feature**:
+
+   ***O recurso de overclocking** precisa estar ATIVADO para continuar*
+
+   Agora vamos pra **Processor** e alteramos:
+    - A opção **Core Voltage Mode** pra **Override**
+    - A opção **Core Voltage Override** pra **XXXX**, onde (XXXX) é um múltiplo de Tensão; Se o seu processador tem/suporta TDP de 90W ou 105W, normalmente ele usa 1.1v/1.2v para rodar todos os seus núcleos, então, com esta opção vamos forçar um limite de tensão que o processador pode tirar da placa-mãe, *ex: Tenho um Xeon E5-2640v4 que tem TDP de 90W, quero definir que a Placa Mãe force 1,2v para ele, desta forma, defino então o valor de Core Voltage Override como 1200*
+  
+3. Agora saímos da interface do BIOS com F4 e salvamos as alterações.
+
 ---
 
 </details>
