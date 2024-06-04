@@ -106,7 +106,15 @@ To know how they work, I attach the [AMI EXPRESS GUIDE] to open and flash firmwa
 
 ## Manual/Assambly Guide
 
-IN DEVELOPMENT
+IN DEVELOPMENT, some previews below:
+
+<details>
+  
+  ![GUIDE_MAIN](https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/Guide%20Project/UserGuideX99E-K4%20Coverlow.png?raw=true)
+  ![GUIDE2](https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/Guide%20Project/Guide%20English/UserGuide2.png?raw=true)
+  ![GUIDE3](https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/Guide%20Project/Guide%20English/UserGuide3.png?raw=true)
+
+</details>
 
 ## What CPU/Processor is supported?
 
