@@ -82,7 +82,9 @@ Try use the Turbo Boost Hack if you have a Xeon V3; in my case, I have a Xeon V4
 
    Now go to **Processor** and change:
     - **Core Voltage Mode** to **Override**
-    - **Core Voltage Override** to **XXXX**, where (XXXX) it's some Voltage multiple; If your processor have 90W or 105W of TDP usually, use 1.1v/1.2v for run with all their cores, so, with this option, we go to force a Voltage limit that processor can use in Motherboard, *eg: I have a Xeon E5-2640v4 that have 90W of TDP, I want define that MoBo force 1.2v for it, so, define the Core Voltage Override value as 1200* 
+    - **Core Voltage Override** to **XXXX**, where (XXXX) it's some Voltage multiple; If your processor have 90W or 105W of TDP usually, use 1.1v/1.2v for run with all their cores, so, with this option, we go to force a Voltage limit that processor can use in Motherboard, *eg: I have a Xeon E5-2640v4 that have 90W of TDP, I want define that MoBo force 1.2v for it, so, define the Core Voltage Override value as 1200*
+  
+3. Now exit to BIOS Interface with F4 and save the changes.
 
 
 ---
