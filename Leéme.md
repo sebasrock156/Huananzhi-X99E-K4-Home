@@ -142,4 +142,16 @@ Xeon | Serie E5-46XX V4 | Broadwell-EP | Compatible con fuentes de 1000W o más,
   
 </details>
 
+## ¿Puedo hacer Hackintosh en ella?
 
+<details>
+
+La respuesta corta es SI, si que puedes.
+
+La respuesta larga es SI, pero: Realmente necesitamos saber cuál es el chipset de la placa base (HM55 o P55), la tarjeta de audio (normalmente la Realtek ALC897) y la GPU que se utilizará para inicializarlo (AMD o Nvidia, las discretas/dedicadas de Intel no tienen soporte).
+
+Para la variante con chipset HM55 estoy trabajando en algunos EFI para arrancar MacOS como Hackintosh [aquí mismo]
+
+---
+
+</details>
