@@ -25,7 +25,7 @@ Component | Description
 Chipset | Intel P55 or HM55 (randomly)
 Socket  | Intel LGA 2011-3
 RAM Memory Slots | DDR4(x4) until 128GB Support (Max.)
-RAM Memory Freq. | Quad-channel (on 2 or 4 slots) support since 1866Mhz until 2400Mhz ECC or Non-ECC modules
+RAM Memory Freq. | Quad-channel (on 4 slots) support since 1866Mhz until 2400Mhz ECC or Non-ECC modules
 Storage interface | Sata 2.0(x3)@3Gbps
 Storage expansion | One slot M.2 2280 NVME PCIEx4 3.0@32Gbps or M.2 NGFF Sata 2.0@3Gbps
 Audio card | Realtek HD Audio ALC897 (Surround 5.1 Support max.)
@@ -38,6 +38,27 @@ Rear panel | PS/2 Port(x2), USB 2.0@480Mbps(x6), Network port (RJ45), Audio inte
 Front panel | (Connectors only) USB 2.0(1x), USB 3.0(x1) Audio interface (x1) COM port (x1), Power/Reset interface
 Supported system | Windows (7, 10 and 11), GNU/Linux (x86_64), MacOS (with Hackintosh only)
 ---
+</details>
+
+### Why do I contradict the manufacturer?
+
+<details>
+  
+  ![specs](https://i.imgur.com/fAamx7u.png)
+
+  Here is the prove of RAM configuration:
+
+  - I'm using the 4 DIMM Slots with Corsair's ValueSelect 8GB(x4) modules.
+
+  - When I used only 2 DIMM Slots, Windows detected the RAM configuration as Dual-Channel.
+
+  ![prove1](https://i.imgur.com/y0NncYc.png)
+
+  Some interesting thing about this motherboard is, their BIOS Settings, this is configured for a real X99 Chipset, so, if we use programs as HWInfo, we have things like this:
+
+  ![interesting](https://i.imgur.com/BtQmmwF.png)
+
+  
 </details>
 
 ## Drivers (Windows 10/11)
