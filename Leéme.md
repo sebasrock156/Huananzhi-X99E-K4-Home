@@ -156,3 +156,37 @@ Para la variante con chipset HM55 estoy trabajando en algunos EFI para arrancar 
 ---
 
 </details>
+
+## Estudiando la estructura de la Huananzhi X99E-K4
+
+<details>
+
+Esto es un placeholder por ahora.
+
+Intentaremos hablar sobre los esquemas, los microcódigos soportados por el Chipset y otros detalles interesantes.
+
+Sigamos con los placeholders:
+
+### Esquemas de la Placa Base
+
+> Para hacer: 
+> - Construir esquema de capas (puertos y periféricos)
+> - Construir esquema de dispositivos (dispositivos integrados/chips)
+> - Construir esquemas de voltaje (? No sé si usar un multímeto para esto)
+> ---
+
+### ¿Qué hay sobre los Microcódigos?
+
+> - Añadir capturas de MCExtractor con una explicació extensa
+> - Explicar con una guía cómo modificar/editar/añadir microcódigos
+> - Explicar cómo Huananzhi modifica la BIOS/Southbridge para el soporte de procesadores
+> ---
+---
+
+### Detalles (reales) para el soporte
+
+> - Añadir mejores datos para el uso del hardware
+> - Comentar detalles sobre el soporte
+> ---
+
+</details>
