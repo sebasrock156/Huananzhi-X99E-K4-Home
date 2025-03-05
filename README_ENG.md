@@ -174,3 +174,39 @@ For the variant with HM55 Chipset I'm working in some EFIes for boot MacOS as Ha
 ---
 
 </details>
+
+## Studying Huananzhi's X99E-K4 structure
+
+<details>
+
+For now this is a placeholder.
+
+We will try to talk about the motherboard schematics (if I ever get around to mapping it), the microcodes supported by the Chipset and other interesting details.
+
+We follow with placeholders:
+
+### Motherboard Schematics
+
+> To do: 
+> - Build layers schemas (ports and periphericals)
+> - Build devices schemas (in-build devices/chips)
+> - Build voltage schemas(? IDK if use a multimeter for do it)
+> ---
+
+### What about with Microcodes?
+
+> - Add MCExtractor screenshot and a whole explain
+> - Explain some guide to modify/add/replace microcodes
+> - Explain how Huananzhi modifies BIOS/Southbridge for CPU support
+> ---
+---
+
+### Details for (real) support
+
+> - Add improvements from hardware
+> - Comment details from support
+> ---
+
+
+</details>
+
