@@ -5,6 +5,7 @@
 [Controlador de Red Ethernet para W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Controlador de Red Ethernet para W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Imagen de BIOS Original]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
+[Imagen de BIOS Original Actualizada]: https://www.mediafire.com/file/qc8pc8t5iezt3jf/X99E-K4+v1.11.bin/file
 [Imagen de BIOS Desbloqueada]: https://www.mediafire.com/file/qtwh4jle25884rq/X99E-K4_VGXX02_Unlocked.rom/file
 [Controlador del Chipset]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 [GUIA EXPRESS de AMI]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/AMIXpress-Guide.md
@@ -66,7 +67,9 @@ Todos los controladores que estarán a continuación, se han tomado de otras pla
   
 Como no tenemos un archivo oficial de Huananzhi, me he dado a la tarea de hacer un volcado desde mi propia placa base.
 
-[Imagen de BIOS Original]: Esta es un volcado del BIOS de stock de mi placa base, sin modificaciones.
+[Imagen de BIOS Original] (v1.0): Esta es un volcado del BIOS de stock de mi placa base, sin modificaciones.
+
+[Imagen de BIOS Original Actualizada] (v1.11): Esta es la última versión lanzada por Huananzhi en su página web.
 
 [Imagen de BIOS Desbloqueada]: Esta es una BIOS con los ajustes de Overclock habilitados/desbloqueados. (**RECOMENDADO ÚNICAMENTE PARA PROCESADORES XEON 16XX V3/V4 Y CORE EXTREME; TAMPOCO GARANTIZO BUENOS RESULTADOS**)
 
