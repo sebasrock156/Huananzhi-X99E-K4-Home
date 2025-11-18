@@ -5,6 +5,7 @@
 [Ethernet Drivers for W10]: https://www.mediafire.com/file/z4w75jswapzof1j/X99-P4FLAN.rar/file
 [Ethernet Drivers for W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Original BIOS Image]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
+[Original BIOS Image Update]: https://www.mediafire.com/file/qc8pc8t5iezt3jf/X99E-K4+v1.11.bin/file
 [Unlocked BIOS Image]: https://www.mediafire.com/file/qtwh4jle25884rq/X99E-K4_VGXX02_Unlocked.rom/file
 [Chipset Driver]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 [AMI EXPRESS GUIDE]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/AMIXpress-Guide.md
@@ -85,9 +86,11 @@ All the drivers below have been brought from other Huananzhi motherboars with si
   
 Since we haven't an official file from Huananzhi, I have taken the task of making a dump from my own Motherboard.
 
-[Original BIOS Image]: This is a dump from Stock BIOS from my Motherboard, without modifies.
+[Original BIOS Image] (v1.0, 8MB): This is a dump from Stock BIOS from my Motherboard, without modifies.
+[Original BIOS Image Update] (v1.11, 16MB): This is the latest release from Huananzhi consumers webpage.
 
-[Unlocked BIOS Image]: This is a BIOS image with Overclock Settings enabled/unlocked. (**THIS IS FOR XEON 16xx V3/V4 AND CORE EXTREME PROCESSORS ONLY; I CAN'T GUARANTEE GOOD RESULTS**)
+[Unlocked BIOS Image] (v1.0, 8MB): This is a BIOS image with Overclock Settings enabled/unlocked. (**THIS IS FOR XEON 16xx V3/V4 AND CORE EXTREME PROCESSORS ONLY; I CAN'T GUARANTEE GOOD RESULTS**)
+[Unlocked BIOS Update] (v1.11, 16MB): Soon as possible, maybe with TBU included.
 
 Try use the Turbo Boost Hack if you have a Xeon V3; in my case, I have a Xeon V4 and may not work at all.
 
