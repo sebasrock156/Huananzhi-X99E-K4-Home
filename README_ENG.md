@@ -6,6 +6,7 @@
 [Ethernet Drivers for W11]: https://www.mediafire.com/file/53yr2eb7w82h75v/X99-P4FLanwin11.zip/file
 [Original BIOS Image]: https://www.mediafire.com/file/zozi3s0fixamce4/X99E-K4+BIOS.rom/file
 [Original BIOS Image Update]: https://www.mediafire.com/file/qc8pc8t5iezt3jf/X99E-K4+v1.11.bin/file
+[Unlocked BIOS Update]: soon
 [Unlocked BIOS Image]: https://www.mediafire.com/file/qtwh4jle25884rq/X99E-K4_VGXX02_Unlocked.rom/file
 [Chipset Driver]: https://www.mediafire.com/file/kevqagczu5b4igy/X99-P4FChipset.rar/file
 [AMI EXPRESS GUIDE]: https://github.com/sebasrock156/Huananzhi-X99E-K4-Home/blob/main/AMIXpress-Guide.md
